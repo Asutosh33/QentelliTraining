@@ -7,6 +7,6 @@ public class Test2 {
 	  @Test
 	  public void  Test2()
 	  {
-		  Reporter.log("Jai mahakal",true);
+		  Reporter.log("Jai maa Kali",true);
 	  }
 }
